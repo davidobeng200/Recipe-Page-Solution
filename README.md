@@ -23,7 +23,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [GitHub Repository](https://github.com/davidobeng200/Recipe-Page-Solution.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -111,5 +111,5 @@ Responsiveness
 ## Author
 
 - Website - [DAVID OBENG ADJEI](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@davidobeng200](https://www.frontendmentor.io/profile/davidobeng200)
 
