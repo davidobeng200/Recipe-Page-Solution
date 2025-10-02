@@ -19,7 +19,7 @@
 
 ### Screenshot
 
-![Recipe Page](./screenshot.png)
+![Recipe Page](./Screenshot.png)
 
 ### Links
 
